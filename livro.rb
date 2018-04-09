@@ -24,3 +24,6 @@ teste_e_design = Livro.new("Mauricio Aniche", "123454", 247, 60.90)
 web_design_responsivo = Livro.new("Tárcio Zemel", "452565", 321, 70.00)
 puts teste_e_design.preco
 puts web_design_responsivo
+
+
+#pagina do Livro 57
